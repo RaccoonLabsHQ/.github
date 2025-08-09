@@ -1,0 +1,1 @@
+Raccoon Labs (aka Raccoon AI) builds efficient, accessible AI tools and models designed to run seamlessly on low-resource devices. We empower developers and users worldwide with high-performance, lightweight AI solutions focused on innovation, sustainability, and inclusivity.
